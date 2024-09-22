@@ -1,0 +1,48 @@
+.home{
+    margin-top: 10vh;
+}
+.home-description{
+    width: 50vw;
+}   
+.head{
+    color: rgb(15, 10, 111);
+}
+image{
+    width: 50vw;
+    background-color: gre;
+}
+.home-header{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
+.home-about{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    align-items: center;
+    gap: 20px;
+}
+
+.write-about {
+    
+    display:flex;
+    flex-direction: column;
+   justify-content: space-between;
+
+}
+
+.write-contact{
+    display: flex;
+}
+.home-contact{
+    padding-bottom: 15px;
+}
+
+.contactForm{
+    margin-top: 10vh;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 10vh;
+}

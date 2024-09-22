@@ -1,0 +1,67 @@
+.form-container-add-transport {
+  background: #a4c1dd;
+  text-align: center;
+  width: 50%;
+ margin: auto;
+ padding-top: 30px;
+  }
+
+  .addTransportParent{
+    margin-top: 100px;
+  }
+
+  
+  .form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom:15px;
+
+  }
+  .ab{
+    height: 35px;
+    
+  }
+  
+  .form-group label {
+    width: 100px;
+  }
+  
+  .form-group input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .submit-button {
+    background-color: #be1982;
+    color: #938b8b;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  .a1{
+    /* border: 2px solid skyblue; */
+    padding: 15px ;
+  }
+  .bt{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 50px;
+  }
+  .button-large{
+    font-size: 20px;
+  }
+  .abc{
+    height: 35px;
+  }
+  .fr{
+    font-size: 17px;
+  }
+  .button-larg{
+    font-size: 26px;
+  }
+  

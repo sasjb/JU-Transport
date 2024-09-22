@@ -1,0 +1,12 @@
+.main-profile{
+    background: white;
+}
+.editbutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 23vw;
+    background: #0B5ED7;
+    border: none;
+    color: white;  
+}
